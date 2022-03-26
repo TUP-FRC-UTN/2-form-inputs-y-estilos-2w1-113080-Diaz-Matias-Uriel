@@ -1,0 +1,24 @@
+p{
+    background-color: beige;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+.parr{
+    font-weight: bold;
+
+}
+#id-parr{
+    border: 5px red;
+}
+p,
+.parr,
+#id-parr{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: coral;
+}
+span{
+    color: aquamarine;
+}
+p span{
+    color: blueviolet;
+}
